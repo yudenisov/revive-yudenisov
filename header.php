@@ -33,7 +33,7 @@
 <!-- borderheader -->
 	<div id="borderheader">
 		<div id="lc_border">
-			<p>Личный кабинет</p>
+			<p><a href="http://my.forex-brand.com/" target="_blank">Личный кабинет</a></p>
 		</div>
 	</div>
 <!-- /borderheader -->
