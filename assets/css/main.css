@@ -433,7 +433,8 @@ a:hover {
 }
 #top-menu ul li a {
   display: inline-block;
-  color: #919191;
+//  color: #919191;
+  color: #000000; // My New Color of menu
   font-size: 12px;
   font-weight: light;
   text-transform: uppercase;
